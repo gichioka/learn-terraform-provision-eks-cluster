@@ -1,2 +1,2 @@
-export TF_CLOUD_ORGANIZATION=
-をしてTF_CLOUD_ORGANIZATION設定しないと動かない。
+EKSをterraformで構築。
+export TF_CLOUD_ORGANIZATION=をしてTF_CLOUD_ORGANIZATION設定しないと動かない。
